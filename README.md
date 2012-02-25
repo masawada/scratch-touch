@@ -15,10 +15,10 @@ Nodeとnpmを前もってインストールしてください。
 ## 使い方 ##
 1. Nodeとnpmをインストールしましょう
 2. ターミナル（端末・コマンドプロンプト）から以下のコマンドを入力します
-	git://github.com/masawada/scratch-touch.git
-	cd scratch-touch
-	npm install express jade socket.io
-	node app.js
+`git://github.com/masawada/scratch-touch.git`
+`cd scratch-touch`
+`npm install express jade socket.io`
+`node app.js`
 3. Scratchを起動します
 4. 遠隔センサー接続をオンにします
 5. iPhoneのSafariから"http://PCの(LAN)IPアドレス:3000/"にアクセスしてください
