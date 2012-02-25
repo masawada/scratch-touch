@@ -3,7 +3,6 @@
 Scratchでは外部センサーを使うことが出来ます。これは、iPhoneをセンサー代わりにするデモです。
 
 ## 必要なもの ##
----
 * iPhone (iPod touch)
 * Node
 * npm
@@ -14,7 +13,6 @@ Nodeとnpmを前もってインストールしてください。
 （MacでNodeを扱うならHomebrewがオススメです。）
 
 ## 使い方 ##
----
 + Nodeとnpmをインストールしましょう
 + ターミナル（端末・コマンドプロンプト）から以下のコマンドを入力します
     git://github.com/masawada/scratch-touch.git
